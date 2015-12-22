@@ -2,6 +2,7 @@
 title: Animation/Design - A blog about animation and design
 email: A&D@gmail.com
 description: A blog about my favorite animation.
+baseurl: '/AnimationDesign'
 url: "http://A&D.me" # the base hostname & protocol for your site
 twitter_username: soulreapersixx
 gems: [jekyll-paginate]
