@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animation/Design - A blog about animation and design</title>
+    <description>A blog about my favorite animation.</description>
+    <link>http://A&D.me/</link>
+    <atom:link href="http://A&D.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 22 Dec 2015 18:37:07 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Dec 2015 18:37:07 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Animation Research</title>
+        <description>&lt;p&gt;I have been doing alot more lately to find out more about animation and fine tune my skills
+with the software i currently use.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
+        <link>http://A&D.me/animation-research</link>
+        <guid isPermaLink="true">http://A&D.me/animation-research</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Treehouse Meetups</title>
+        <description>&lt;p&gt;This is a post about all the awesome treehouse meetups out there!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+        <link>http://A&D.me/Treehouse-meetups</link>
+        <guid isPermaLink="true">http://A&D.me/Treehouse-meetups</guid>
+        
+        
+        <category>meetups</category>
+        
+      </item>
+    
+      <item>
+        <title>Converge</title>
+        <description>&lt;p&gt;Animation is amazing in my eyes and what ive seen some people acheieve in a couple of hours
+is amazing.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+        <link>http://A&D.me/converge</link>
+        <guid isPermaLink="true">http://A&D.me/converge</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Animation Image</title>
+        <description>&lt;p&gt;This is a a project that i have just started&lt;/p&gt;
+
+&lt;p&gt;This is a animation I am designing in Maya, and this is a test image I took in the early stages 
+of making the scene and before i have started animating or rendering anything.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+        <link>http://A&D.me/First-Project-Copy</link>
+        <guid isPermaLink="true">http://A&D.me/First-Project-Copy</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>My Experience with Animation</title>
+        <description>&lt;p&gt;Animation is something that I have only recently tried but it is a great thing if anyone can take the
+time to learn it.&lt;/p&gt;
+
+&lt;p&gt;I will have its struggles when you attempt to make your first project
+with the software going crazy on you. If you can power through that though, 
+you will be on your way to becoming a great animator&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Apr 2015 10:45:36 +0100</pubDate>
+        <link>http://A&D.me/A-little-on-animation</link>
+        <guid isPermaLink="true">http://A&D.me/A-little-on-animation</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+  </channel>
+</rss>

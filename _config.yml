@@ -1,0 +1,36 @@
+# Site settings
+title: Animation/Design - A blog about animation and design
+email: A&D@gmail.com
+description: A blog about my favorite animation.
+url: "http://A&D.me" # the base hostname & protocol for your site
+twitter_username: soulreapersixx
+gems: [jekyll-paginate]
+paginate: 3
+paginate_path: "/blog/page:num/"
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: Sean Wilson
+      layout: "post"
+      category: conferences
+      comments: true
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+
+
+
+
+
